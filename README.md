@@ -1,6 +1,16 @@
 <p align="center">
-<img width="900" height="400" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/3b3bf116-4cad-4732-bf76-f8353e996127">
+<img width="700"src="https://github.com/aastha-cse/aastha-cse/assets/100745494/3b3bf116-4cad-4732-bf76-f8353e996127">
 </p>
+
+
+<br>
+
+Hey 👋🏻,
+
+
+I'm on an exciting learning journey where code is my compass. As a passionate C++ enthusiast and web developer, I've embarked on numerous projects in the realm of web development, each a unique step in my quest for knowledge and creativity. Join me as I continue to explore, learn, and build in the world of web development, one project at a time. Let's create together! 🚀🌐
+
+# Languages and Tools
 
 <p align="center">
 <img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/f30bc3dc-2e1d-4027-89aa-dd8e866fddd1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,15 +21,21 @@
 <img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/58181806-51e7-4062-be91-e897e229e9c6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/94877a9b-9ff3-41dd-9930-4d887fc84309">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/afef0727-cddb-407b-9385-88426e4c4e94">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/202166c0-3433-4655-b6d0-ab767a344840">
+<img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/202166c0-3433-4655-b6d0-ab767a344840">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/cf7a8e99-1a8f-4d97-9e28-d689a6a9fea4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/0a797f84-4b97-44ad-b054-780ede0c12c9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="50" src="https://github.com/aastha-cse/aastha-cse/assets/100745494/ca320cee-0773-4e2a-9202-1d149e671f66">
 </p>
 
 
-Hey 👋🏻,
 
+# Get in Touch
+- Linkedin : [https://www.linkedin.com/in/aastha-gupta-507380229/](https://www.linkedin.com/in/aastha-gupta-507380229/)
+- Twitter : [https://twitter.com/AasthaGupt38023](https://twitter.com/AasthaGupt38023)
 
-I'm on an exciting learning journey where code is my compass. As a passionate C++ enthusiast and web developer, I've embarked on numerous projects in the realm of web development, each a unique step in my quest for knowledge and creativity. Join me as I continue to explore, learn, and build in the world of web development, one project at a time. Let's create together! 🚀🌐
+# My GitHub Stats
 
-
-
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-cse">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aastha-cse&theme=prussian&background=45%2C251784%2C903BA7">
+</div>
