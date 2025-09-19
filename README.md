@@ -30,5 +30,4 @@ I'm on an exciting learning journey where code is my compass. As a passionate C+
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-cse"><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aastha-cse&theme=prussian&background=45%2C251784%2C903BA7">
 </div>
