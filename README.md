@@ -1,5 +1,4 @@
 <p align="center">
-<img width="700"src="https://github.com/aastha-cse/aastha-cse/assets/100745494/3b3bf116-4cad-4732-bf76-f8353e996127">
 </p>
 
 
